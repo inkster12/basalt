@@ -1,8 +1,5 @@
 module.exports = {
     content: ["*.html"],
-    plugins: [
-        require('tailwind-scrollbar')
-    ],
     theme: {
       extend: {
         fontFamily: {
